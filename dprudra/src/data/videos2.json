@@ -1,0 +1,25 @@
+{
+    "types":[
+        {
+            "videoUrl" : "../../../Videos/TraumaticBrainInjury.mp4",
+            "thumbnail" : "../../../CardImages/traumaticBrain.jpeg",
+            "title" : "Traumatic Brain Injury",
+            "description":"",
+            "description2" : "Check ABCs: Ensure Airway is open, control Bleeding with pressure, and assess their Consciousness (alertness). \n\nClean the Wound: Gently wash the wound with cool water and mild soap to remove dirt and debris. \n\nApply Antibiotic Ointment: Apply a thin layer of antibiotic ointment to reduce the risk of infection. \n\nCover the Wound: Protect the wound with a sterile bandage or gauze pad. \n\nChange Dressings: Change the bandage daily or as needed to keep the wound clean and dry. \n\nMonitor: Watch for signs of infection, such as increased pain, redness, or pus. Seek medical help if needed. \n\nRemember: Don't pick at scabs, as this can slow healing and increase the risk of infection."
+        },
+        {
+            "videoUrl" : "../../../Videos/Hypotension.mp4",
+            "thumbnail" : "../../../CardImages/Hypotension.png",
+            "title" : "Hypotension",
+            "description":"",
+            "description2" : "Symptoms:Dizziness or lightheartedness, Fainting (syncope), Blurred vision, Fatigue, Nausea, Clammy skin, Rapid or shallow breathing, Thirst, Confusion or difficulty concentrating, Chest pain.\nProcedure:\n1.Check vital signs: BP, heart rate, consciousness.\n2.Position: Lie down, elevate legs.\n3.Fluid replacement: IV fluids to raise BP.\n4.Monitor: Continuously observe vital signs.\n5.Identify cause: Dehydration, bleeding, meds.\n6.Medication: Vasopressors for severe cases."
+        },
+        {
+            "videoUrl" : "../../../Videos/Hypoglacemia.mp4",
+            "thumbnail" : "../../../CardImages/Hypoglacemia.png",
+            "title" : "Hypoglacemia",
+            "description":"",
+            "description2" : "Symptoms: Shakiness or tremors, Sweating, Rapid heartbeat (tachycardia), Hunger, Irritability or moodiness, Fatigue or weakness, Blurred vision, Dizziness or light headedness, Headache, Confusion or difficulty concentrating, Anxiety or nervousness, Pale skin, Tingling or numbness in the lips, tongue, or cheeks\nProcedure:\n1.Recognition: Identify symptoms of hypoglycemia.\n2.Verify: Check if the person has diabetes or is at risk of low blood sugar.\n3.Act Quickly: Offer fast-acting sugar, like fruit juice, candy, or glucose tablets.\n4.Monitor: Stay with the person and monitor their symptoms.\n5.Reassess: If symptoms don't improve in 15 minutes, give more sugar or seek medical help.\n6.Follow-up: Encourage the person to eat a snack or meal to stabilize blood sugar levels.\n7.Prevention: Educate about monitoring blood sugar levels and carrying snacks for emergencies"
+        }
+    ]
+}

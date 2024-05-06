@@ -1,0 +1,49 @@
+{
+    "disease":[
+        {
+            "title" : "Abrasion",
+            "description":"",
+            "description2" : "Superficial wounds affecting only the topmost skin layer.\nClean the Wound: Wash with clean water and mild soap to remove dirt and debris.\nStop Bleeding: Apply gentle pressure with a clean cloth if there's minor bleeding.\nSoothe the Area (Optional): Apply antibiotic ointment to prevent infection (check with a doctor for allergies).\nCover and Monitor: Bandage the scrape to prevent further irritation and watch for signs of infection (redness, pus, fever).\nRemember: Don't use harsh chemicals or scrub the wound. See a doctor for deep scrapes, severe bleeding, or embedded objects."
+        },
+        {
+            "title" : "Lacteration",
+            "description":"",
+            "description2" : "Deeper cuts involving multiple skin layers or underlying tissue.\nStop Bleeding: Apply firm pressure with a clean cloth directly on the wound.\nClean the Wound (Optional, for minor cuts): If bleeding slows, gently clean with cool water and mild soap (avoid scrubbing). \nElevate (if possible): Raise the injured area above the heart to reduce swelling.\nBandage: Cover the wound with a sterile bandage to protect it from dirt and infection"
+        },
+        {
+            "title" : "Bruises",
+            "description":"",
+            "description2" : "Bleeding and swelling under the skin caused by blunt trauma.\nRest: Avoid strenuous activity on the bruised area.\nIce: Apply ice packs (wrapped in a cloth) to the bruise for 15-20 minutes at a time, several times a day to reduce swelling.\nCompression: Use an elastic bandage to provide gentle compression and minimize further swelling.\nElevation: Elevate the bruised area above the heart whenever possible to reduce swelling." 
+        },
+        {
+            "title" : "Ankle Sprain",
+            "description":"",
+            "description2" : "An ankle sprain is a stretching or tearing of the ligaments, the tough tissues that connect bones at a joint, in the ankle. It's a very common injury, especially among athletes and people who are physically active. \n\nSymptoms: \n\nPain, especially when you bear weight on the affected foot \n\nTenderness when you touch the ankle \n\nSwelling \n\nBruising \n\nRestricted range of motion \n\nInstability in the ankle \n\nPopping sensation or sound at the time of injury"
+        },
+        {
+            "title" : "Traumatic Brain Injury",
+            "description":"",
+            "description2" : "Check ABCs: Ensure Airway is open, control Bleeding with pressure, and assess their Consciousness (alertness). \n\nClean the Wound: Gently wash the wound with cool water and mild soap to remove dirt and debris. \n\nApply Antibiotic Ointment: Apply a thin layer of antibiotic ointment to reduce the risk of infection. \n\nCover the Wound: Protect the wound with a sterile bandage or gauze pad. \n\nChange Dressings: Change the bandage daily or as needed to keep the wound clean and dry. \n\nMonitor: Watch for signs of infection, such as increased pain, redness, or pus. Seek medical help if needed. \n\nRemember: Don't pick at scabs, as this can slow healing and increase the risk of infection."
+        },
+        {
+            "title" : "Scalp Injury",
+            "description":"",
+            "description2" : "A scalp injury is a cut, scrape, or bruise on the hairy part of your head.  Here's a quick rundown of first aid: \n\nControl Bleeding: Apply gentle pressure with a clean cloth to slow bleeding. \n\nClean the Wound: Once bleeding slows, clean the wound with clean water and mild soap. \n\nBandage (Optional): If needed, use a sterile bandage to cover the wound. \n\nMonitor: Watch for signs of infection like redness, pus, or fever. See a doctor if these appear. \n\nRemember: \n\nDon’t use harsh chemicals or scrub the wound. \n\nSeek medical attention for deep cuts, severe bleeding, or if debris is stuck in the wound."
+        },
+        {
+            "title" : "Jaw Injuries",
+            "description":"",
+            "description2" : "A jaw injury involves damage to the jawbone, teeth, or jaw joint. Here's a quick first-aid response: \n\nControl Bleeding: Apply gentle pressure with a clean cloth to slow bleeding. \n\nDon’t Realign: Leave the jaw as you find it. Attempts to move it can worsen the injury. \n\nReduce Swelling: Apply ice packs (wrapped in cloth) to the jaw to minimize pain and swelling. \n\nSupport the Jaw: If possible, use a sling to gently support the jaw and minimize movement. \n\nSeek Medical Help: See a doctor as soon as possible for proper diagnosis and treatment"
+        },
+        {
+            "title" : "CPR",
+            "description":"",
+            "description2" : "Cardiopulmonary resuscitation (CPR) is a lifesaving technique that's useful in many emergencies in which someone's breathing or heartbeat has stopped. The American Heart Association recommends that everyone — untrained bystanders and medical personnel alike — begin CPR with chest compressions. It's far better to do something than to do nothing at all if you're fearful that your knowledge or abilities aren't 100 percent complete. Remember, the difference between your doing something and doing nothing could be someone's life. Here's a quick rundown of CPR and First Aid for bystanders: \nFirst Check: \n. Unresponsive: Gently shake and ask if they're okay. \nIf Unresponsive: \n. Push & Breathe (if trained): If trained in CPR, begin chest compressions (30) followed by 2 rescue breaths. Repeat cycles until help arrives. \n. Hands-Only CPR (alternative): If not CPR trained, do continuous chest compressions (push hard & fast) in the center of the chest until help arrives."
+        },
+        {
+            "title" : "Compound Fracture",
+            "description":"",
+            "description2" : "A compound fracture (also known as an “open fracture”) is a bone fracture that is accompanied by breaks in the skin, causing the broken ends of bone to come into contact with the outside environment. This can lead to infection and other complications.\nFirst Aid (DON'T ATTEMPT TO RESET THE BONE):\nControl Bleeding: Apply gentle pressure to the wound with a clean cloth.\nMinimize Movement: Stabilize the injured area with something splint-like (e.g., cardboard, rolled magazine) to prevent further movement.\nCover the Wound: Place a sterile bandage (or clean cloth) over the wound without applying pressure directly to the bone.\nRemember: Don't try to push the bone back in, clean the wound extensively, or give food or drink. Leave that to medical professionals." 
+        }
+    ]
+}

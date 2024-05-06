@@ -1,0 +1,32 @@
+{
+    "types":[
+        {
+            "videoUrl" : "../../../Videos/Abrasion.mp4",
+            "thumbnail" : "../../../CardImages/Abrasion.jpg",
+            "title" : "Abrasion",
+            "description":"",
+            "description2" : "Superficial wounds affecting only the topmost skin layer.\nClean the Wound: Wash with clean water and mild soap to remove dirt and debris.\nStop Bleeding: Apply gentle pressure with a clean cloth if there's minor bleeding.\nSoothe the Area (Optional): Apply antibiotic ointment to prevent infection (check with a doctor for allergies).\nCover and Monitor: Bandage the scrape to prevent further irritation and watch for signs of infection (redness, pus, fever).\nRemember: Don't use harsh chemicals or scrub the wound. See a doctor for deep scrapes, severe bleeding, or embedded objects."
+        },
+        {
+            "videoUrl" : "../../../Videos/Lacteration.mp4",
+            "thumbnail" : "../../../CardImages/Lacteration.jpeg",
+            "title" : "Lacteration",
+            "description":"",
+            "description2" : "Deeper cuts involving multiple skin layers or underlying tissue.\nStop Bleeding: Apply firm pressure with a clean cloth directly on the wound.\nClean the Wound (Optional, for minor cuts): If bleeding slows, gently clean with cool water and mild soap (avoid scrubbing). \nElevate (if possible): Raise the injured area above the heart to reduce swelling.\nBandage: Cover the wound with a sterile bandage to protect it from dirt and infection"
+        },
+        {
+            "videoUrl" : "../../../Videos/Bruises.mp4",
+            "thumbnail" : "../../../CardImages/Bruises.jpeg",
+            "title" : "Bruises",
+            "description":"",
+            "description2" : "Bleeding and swelling under the skin caused by blunt trauma.\nRest: Avoid strenuous activity on the bruised area.\nIce: Apply ice packs (wrapped in a cloth) to the bruise for 15-20 minutes at a time, several times a day to reduce swelling.\nCompression: Use an elastic bandage to provide gentle compression and minimize further swelling.\nElevation: Elevate the bruised area above the heart whenever possible to reduce swelling." 
+        },
+        {
+            "videoUrl" : "../../../Videos/Sprained Ankle.mp4",
+            "thumbnail" : "../../../CardImages/ankleSprain.jpeg",
+            "title" : "Ankle Sprain",
+            "description":"",
+            "description2" : "An ankle sprain is a stretching or tearing of the ligaments, the tough tissues that connect bones at a joint, in the ankle. It's a very common injury, especially among athletes and people who are physically active. \n\nSymptoms: \n\nPain, especially when you bear weight on the affected foot \n\nTenderness when you touch the ankle \n\nSwelling \n\nBruising \n\nRestricted range of motion \n\nInstability in the ankle \n\nPopping sensation or sound at the time of injury"
+        }
+    ]
+}

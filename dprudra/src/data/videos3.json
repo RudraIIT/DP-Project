@@ -1,0 +1,18 @@
+{
+    "types":[
+        {
+            "videoUrl" : "../../../Videos/CPR.mp4",
+            "thumbnail" : "../../../CardImages/cpr.jpg",
+            "title" : "CPR",
+            "description":"",
+            "description2" : "Cardiopulmonary resuscitation (CPR) is a lifesaving technique that's useful in many emergencies in which someone's breathing or heartbeat has stopped. The American Heart Association recommends that everyone — untrained bystanders and medical personnel alike — begin CPR with chest compressions. It's far better to do something than to do nothing at all if you're fearful that your knowledge or abilities aren't 100 percent complete. Remember, the difference between your doing something and doing nothing could be someone's life. Here's a quick rundown of CPR and First Aid for bystanders: \nFirst Check: \n. Unresponsive: Gently shake and ask if they're okay. \nIf Unresponsive: \n. Push & Breathe (if trained): If trained in CPR, begin chest compressions (30) followed by 2 rescue breaths. Repeat cycles until help arrives. \n. Hands-Only CPR (alternative): If not CPR trained, do continuous chest compressions (push hard & fast) in the center of the chest until help arrives."
+        },
+        {
+            "videoUrl" : "../../../Videos/fracture.mp4",
+            "thumbnail" : "../../../CardImages/compoundInjury.jpg",
+            "title" : "Compound Fracture",
+            "description":"",
+            "description2" : "A compound fracture (also known as an “open fracture”) is a bone fracture that is accompanied by breaks in the skin, causing the broken ends of bone to come into contact with the outside environment. This can lead to infection and other complications.\nFirst Aid (DON'T ATTEMPT TO RESET THE BONE):\nControl Bleeding: Apply gentle pressure to the wound with a clean cloth.\nMinimize Movement: Stabilize the injured area with something splint-like (e.g., cardboard, rolled magazine) to prevent further movement.\nCover the Wound: Place a sterile bandage (or clean cloth) over the wound without applying pressure directly to the bone.\nRemember: Don't try to push the bone back in, clean the wound extensively, or give food or drink. Leave that to medical professionals." 
+        }
+    ]
+}

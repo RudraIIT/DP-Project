@@ -1,0 +1,20 @@
+{
+    "types": [
+      {
+        "title": "Wounds on skin",
+        "description": "Information about measures to be taken to prevent serious complications.",
+        "content": "../../../CardImages/Wounds.jpg"
+      },
+      {
+        "title": "Head and Jaw injuries",
+        "description": "Information about measures to be taken to prevent serious complications.",
+        "content": "../../../CardImages/head.jpeg"
+      },
+      {
+        "title": "CPR and Fractures",
+        "description": "Information about measures to be taken to prevent serious complications.",
+        "content": "../../../CardImages/CPR.png"
+      }
+    ]
+  }
+  
